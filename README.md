@@ -12,6 +12,6 @@ Motor-pulley assembly:
 
 ## Circuit Schematic
 
-![Circuit](photos/circuit.jpeg)
+![Circuit](photos/circuit.jpg)
 
 ## Photos
