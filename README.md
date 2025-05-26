@@ -1,6 +1,6 @@
 # Smart Curtain Controller
 
-![Team MEGA](https://github.com/[jacobismael]/[Smart-Curtain-Controller]/blob/[main]/photos/MEGA_Logo.png?raw=true)
+![MEGA Logo](photos/MEGA_Logo.png)
 
 Wifi-Controlled motorized curtain controller. Desgined to be installed on an existing curtain rail, the motor will adjust a pulley system to open and close the curtains. The controller, powered by an Aruino Nano ESP32, hosts the Webserver which the user can connect to with their device, and control the motor.
 
