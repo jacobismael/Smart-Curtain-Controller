@@ -8,10 +8,10 @@ Wifi-Controlled motorized curtain controller. Desgined to be installed on an exi
 
 Motor-pulley assembly:
 
-![Assembly](https://github.com/[jacobismael]/[Smart-Curtain-Controller]/blob/[main]/photos/MEGA_CAD.png?raw=true)
+![Assembly](photos/MEGA_CAD.png)
 
 ## Circuit Schematic
 
-![Circuit](https://github.com/[jacobismael]/[Smart-Curtain-Controller]/blob/[main]/photos/circuit.jpg?raw=true)
+![Circuit](photos/circuit.jpeg)
 
 ## Photos
