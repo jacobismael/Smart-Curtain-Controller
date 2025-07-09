@@ -31,7 +31,6 @@ Components:
 - 2x SPDT Limit Switches
 - Rotary Encoder
 - Barrel Jack Connector 2.10mm [DigiKey](https://www.digikey.com/en/products/detail/tensility-international-corp/54-00164/10459298)
-- Wires :)
 
 Custom Symbols designed for:
 
